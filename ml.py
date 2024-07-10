@@ -1,4 +1,4 @@
-                                    #*---Text algorithm---*
+                                    #*---Bubble Sort---*
 def bs(letters):
     print(letters)
     l = len(letters)
